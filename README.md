@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-### [Despliegue Frontend API GitHub](https://frontend-api-github-mind.netlify.app/)
+### [Despliegue Frontend Responsive para API GitHub implementando Angular - Boostrap](https://frontend-api-github-mind.netlify.app/)
 
 # Usuarios
 
