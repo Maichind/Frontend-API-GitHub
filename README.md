@@ -28,5 +28,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 =======
 # Frontend-API-GitHub
-Consumiendo API GitHub con Angular y Boostrap
+Consumiendo API GitHub con Angular y Bootstrap
 >>>>>>> 89e77a1a63eed12e261deabf0d773054fe2c47c2
