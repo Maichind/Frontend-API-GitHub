@@ -1,0 +1,13 @@
+<h3> RESULTADOS </h3>
+<div class="container">
+  <div *ngFor="let usuario of listUsuario | paginate: { itemsPerPage: 8, currentPage: pagina }" class="card" style="width: 12rem;">
+    <a [href]="usuario.url" target="_blank"><img [src]="usuario.avatar_url" class="card-img-top" alt="..."></a>
+    <div class="card-body">
+      <h5 class="card-title"><strong>ID:</strong> {{ usuario.id }}</h5>
+      <p><strong>TYPE:</strong> {{ usuario.type }}  <a [href]="usuario.html_url" class=" btn-primary" target="_blank"><i class="fa-brands fa-github" title="GitHub"></i></a></p>
+    </div>
+  </div>
+</div>
+<div class="page">
+  <pagination-controls class="page" (pageChange)="pagina = $event" previousLabel="Anterior" nextLabel="Siguiente"></pagination-controls>
+</div>

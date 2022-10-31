@@ -1,0 +1,45 @@
+h3{
+    text-align: center;
+    margin: 50px 30px;
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.container{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    margin: 5px;
+    justify-content: center;
+    text-align:center;
+}
+
+.card img{
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.badge{
+    font-size: 15px;
+}
+.card-title, p{
+    font-size: 15px;
+    text-transform:uppercase;
+}
+.card-text{
+    justify-content: center;
+    text-align:left;
+}
+i{
+    font-size: 20px;
+}
+.page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
