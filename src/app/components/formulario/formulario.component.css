@@ -19,3 +19,40 @@
     margin-left: 13em;
     font-size: 20px;
 }
+
+@media screen and (max-width: 1200px){ 
+    .card{
+        margin-left: 10em;
+    }
+    .btn-primary{
+        margin-left: 12em;
+    }
+}
+
+@media screen and (max-width: 990px){ 
+    .card{
+        margin-left: 4em;
+    }
+    .btn-primary{
+        margin-left: 12em;
+    }
+}
+
+@media screen and (max-width: 767px){ 
+    .card{
+        margin-left: 10px;
+    }
+    .btn-primary{
+        margin-left: 10em;
+    }
+}
+
+@media screen and (max-width: 450px){ 
+    .card{
+        margin-left: 5px;
+    }
+
+    .btn-primary{
+        margin-left: 7em;
+    }
+}
