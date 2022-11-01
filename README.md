@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+#Autor: Maichol Mindiola Joiro
 
 ### [Despliegue Frontend Responsive para API GitHub implementando Angular - Boostrap](https://frontend-api-github-mind.netlify.app/)
 
